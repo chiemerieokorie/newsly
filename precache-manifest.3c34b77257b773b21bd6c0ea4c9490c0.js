@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7538bacd5c3338bff37a5945dd6acf0",
+    "revision": "90b1b16e087a21c5080342a88a31c7d1",
     "url": "/newsly/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newsly/static/js/2.569545e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df78a3b61651c51eab24",
-    "url": "/newsly/static/js/main.1551fa0c.chunk.js"
+    "revision": "a10d609c146aebc7ed18",
+    "url": "/newsly/static/js/main.6efebefd.chunk.js"
   },
   {
     "revision": "564cccd455afe6b40f88",

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/newsly/static/js/main.1551fa0c.chunk.js",
-    "main.js.map": "/newsly/static/js/main.1551fa0c.chunk.js.map",
+    "main.js": "/newsly/static/js/main.6efebefd.chunk.js",
+    "main.js.map": "/newsly/static/js/main.6efebefd.chunk.js.map",
     "runtime-main.js": "/newsly/static/js/runtime-main.48c7dc41.js",
     "runtime-main.js.map": "/newsly/static/js/runtime-main.48c7dc41.js.map",
     "static/js/2.569545e0.chunk.js": "/newsly/static/js/2.569545e0.chunk.js",
     "static/js/2.569545e0.chunk.js.map": "/newsly/static/js/2.569545e0.chunk.js.map",
     "index.html": "/newsly/index.html",
-    "precache-manifest.7a26c22e4cd0b50f552e471bd4f31f8d.js": "/newsly/precache-manifest.7a26c22e4cd0b50f552e471bd4f31f8d.js",
+    "precache-manifest.3c34b77257b773b21bd6c0ea4c9490c0.js": "/newsly/precache-manifest.3c34b77257b773b21bd6c0ea4c9490c0.js",
     "service-worker.js": "/newsly/service-worker.js",
     "static/js/2.569545e0.chunk.js.LICENSE.txt": "/newsly/static/js/2.569545e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48c7dc41.js",
     "static/js/2.569545e0.chunk.js",
-    "static/js/main.1551fa0c.chunk.js"
+    "static/js/main.6efebefd.chunk.js"
   ]
 }
